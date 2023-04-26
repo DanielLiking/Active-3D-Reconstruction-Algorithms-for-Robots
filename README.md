@@ -1,4 +1,3 @@
 # Active-3D-Reconstruction-Algorithms-for-Robots
-
-##weights:
+## weights
 https://github.com/ultralytics/yolov5
